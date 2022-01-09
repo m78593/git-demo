@@ -13,7 +13,3 @@ sdads
 adsadas
 
 adsad
-
-dasadsa
-
-adsaad
