@@ -4,19 +4,10 @@ This is the first file in this repo.
 
 ## 2nd Paragraph
 
-This is 2nd paragraph to change the deta.
+This is 2nd paragraph to change the details.
 
 ### 3rd Paragraph
 adsad
 sdads
 
-adsadas
-
-adsad
-a
-dasa
-
-sads
-
-adsad
 
